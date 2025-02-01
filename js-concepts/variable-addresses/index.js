@@ -5,3 +5,4 @@ const obj = {
     name:'shayan',
     lastName:hanif
 }
+
